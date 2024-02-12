@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g id="vuesax_bold_minus-cirlce" data-name="vuesax/bold/minus-cirlce" transform="translate(-172 -252)">
+    <g id="minus-cirlce" transform="translate(172 252)">
+      <path id="Vector" d="M6.667,0a6.667,6.667,0,1,0,6.667,6.667A6.678,6.678,0,0,0,6.667,0ZM9.28,7.167H3.947a.5.5,0,0,1,0-1H9.28a.5.5,0,0,1,0,1Z" transform="translate(1.333 1.333)" fill="#080c06"/>
+      <path id="Vector-2" data-name="Vector" d="M0,0H16V16H0Z" transform="translate(16 16) rotate(180)" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

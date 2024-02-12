@@ -1,0 +1,81 @@
+/* styles/globals.css */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+@import './editor.scss';
+
+/* Add your custom CSS here if needed */
+@layer utilities {
+  .custom-width {
+    width: calc(100% - 16rem);
+
+    @media (max-width: 1024px) {
+      width: calc(100% - 14rem);
+    }
+
+    @media (max-width: 768px) {
+      width: calc(100% - 72px);
+    }
+  }
+}
+
+/* Hide spin arrows in number input */
+input[type='number'] {
+  &::-webkit-inner-spin-button,
+  &::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+}
+
+::selection {
+  background-color: theme('colors.tints.leaf-green.tint-6') !important;
+}
+
+#countryCodeSelect .ReactFlagsSelect-module_selectBtn__19wW7 {
+  border-width: 0px !important;
+}
+
+#countryCodeSelect .ReactFlagsSelect-module_fullWidthOptions__1XeR6 {
+  width: fit-content !important;
+}
+
+.PhoneInputInput {
+  background: white !important;
+}
+
+.normal-icon {
+  width: 20px;
+  height: 20px;
+}
+
+.highlighted-icon {
+  color: #e3e7dd;
+  width: 20px;
+  height: 20px;
+}
+.icon-div-selected {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #e3e7dd;
+  border: 1px solid #577434;
+  border-radius: 5px;
+}
+
+.icon-div {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+  border: 1px solid #edeeec;
+  border-radius: 5px;
+}
+
+.bg-custom-bg-color {
+  background-color: #080c06;
+}

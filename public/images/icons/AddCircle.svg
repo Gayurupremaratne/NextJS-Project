@@ -1,0 +1,4 @@
+<svg id="add-circle" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <path id="Vector" d="M6.667,0a6.667,6.667,0,1,0,6.667,6.667A6.678,6.678,0,0,0,6.667,0ZM9.333,7.167H7.167V9.333a.5.5,0,0,1-1,0V7.167H4a.5.5,0,0,1,0-1H6.167V4a.5.5,0,0,1,1,0V6.167H9.333a.5.5,0,0,1,0,1Z" transform="translate(1.333 1.333)" fill="#577434"/>
+  <path id="Vector-2" data-name="Vector" d="M0,0H16V16H0Z" transform="translate(16 16) rotate(180)" fill="none" opacity="0"/>
+</svg>

@@ -1,0 +1,185 @@
+.ce-paragraph[data-placeholder]:empty::before {
+  color: theme('colors.tints.battleship-grey.tint-1') !important;
+  font-size: theme('fontSize.md.0') !important;
+  line-height: theme('fontSize.md.1.lineHeight') !important;
+}
+
+.ce-paragraph,
+.policy-render p {
+  font-size: theme('fontSize.md.0') !important;
+  line-height: 22px;
+  color: theme('colors.shades.jungle-green.shade-6') !important;
+  font-family: theme('fontFamily.albertSans');
+}
+
+.ce-block__content {
+  .ce-paragraph,
+  h1.ce-header,
+  h2.ce-header,
+  h3.ce-header {
+    line-height: 26px !important;
+  }
+}
+
+.ce-toolbar__plus,
+.ce-toolbar__settings-btn {
+  color: theme('colors.shades.forest-green.shade-6');
+}
+
+.ce-toolbar__plus:hover,
+.ce-toolbar__settings-btn:hover {
+  background-color: theme('colors.tints.leaf-green.tint-6');
+}
+
+.ce-block__content,
+.policy-render {
+  h1.ce-header,
+  h1 {
+    font-family: theme('fontFamily.albertSans');
+    font-size: theme('fontSize.xl.0');
+    line-height: theme('fontSize.xl.1.lineHeight');
+    font-weight: theme('fontWeight.bold');
+    color: theme('colors.shades.jungle-green.shade-6');
+  }
+
+  h2.ce-header,
+  h2 {
+    font-family: theme('fontFamily.albertSans');
+    font-size: theme('fontSize.lg.0');
+    line-height: 24px;
+    font-weight: theme('fontWeight.bold');
+    color: theme('colors.shades.jungle-green.shade-6');
+  }
+
+  h3.ce-header,
+  h3 {
+    font-family: theme('fontFamily.albertSans');
+    font-size: theme('fontSize.md.0');
+    line-height: 22px;
+    font-weight: theme('fontWeight.bold');
+    color: theme('colors.shades.jungle-green.shade-6');
+  }
+}
+
+.ce-block--selected .ce-block__content {
+  background-color: theme('colors.tints.leaf-green.tint-6') !important;
+}
+
+.ce-conversion-tool--focused {
+  background-color: theme('colors.tints.forest-green.tint-6') !important;
+}
+
+.ce-conversion-toolbar__label {
+  font-size: theme('fontSize.xs.0');
+  line-height: 24px;
+  font-family: theme('fontFamily.albertSans');
+  font-weight: 600;
+  color: theme('colors.tints.forest-green.tint-2');
+  padding: 6px 12px;
+}
+
+.ce-conversion-tool {
+  font-weight: 600;
+  font-size: theme('fontSize.md.0');
+  line-height: 19px;
+  letter-spacing: 0px;
+  font-family: theme('fontFamily.albertSans') !important;
+}
+
+.ce-conversion-toolbar__tools > * {
+  padding: 6px 12px;
+}
+
+.codex-editor {
+  font-family: theme('fontFamily.albertSans') !important;
+}
+
+.ce-popover--opened {
+  padding: 16px;
+  box-shadow: theme('boxShadow.editor') !important;
+  border: 1px solid theme('colors.tints.battleship-grey.tint-5');
+  border-radius: 5px;
+}
+
+.cdx-search-field {
+  background: theme('colors.tints.forest-green.tint-6');
+  border: none;
+  border-radius: 5px;
+  padding: 12px 10px;
+}
+
+.cdx-search-field__input {
+  font-size: theme('fontSize.md.0');
+  line-height: 22px;
+  font-weight: 400;
+
+  &::placeholder {
+    font-weight: 400;
+    color: theme('colors.shades.battleship-grey.shade-1') !important;
+  }
+}
+
+.ce-popover-item__title {
+  font-weight: 600;
+  font-size: theme('fontSize.md.0');
+  line-height: 19px;
+  color: theme('colors.shades.jungle-green.shade-6') !important;
+}
+
+.cdx-search-field__icon svg {
+  color: theme('colors.tints.forest-green.tint-1') !important;
+}
+
+.ce-popover__search {
+  margin-bottom: 0;
+}
+
+.ce-popover__items {
+  padding: 0 0 1px 1px;
+}
+
+.ce-popover-item {
+  margin-top: 12px;
+}
+
+.ct:before,
+.ct:after {
+  background-color: theme('colors.shades.jungle-green.shade-6');
+}
+
+.ct__content {
+  padding: 8px 18px;
+  color: theme('colors.white');
+  font-size: theme('fontSize.sm.0');
+  line-height: 20px;
+
+}
+
+.ct:before {
+  -webkit-mask-box-image: none;
+  border-radius: 5px !important;
+}
+
+.ct {
+  box-shadow: none;
+}
+
+.ce-toolbar__plus-shortcut {
+  margin-top: 0;
+  opacity: 1;
+  color: theme('colors.shades.battleship-grey.shade-1');
+}
+
+.ce-inline-tool:hover,
+.ce-inline-toolbar__dropdown:hover {
+  background-color: theme('colors.tints.leaf-green.tint-6');
+}
+
+.ce-inline-toolbar {
+  border-color: theme('colors.tints.battleship-grey.tint-5');
+  box-shadow: theme('boxShadow.editor') !important;
+}
+
+.ce-popover-item:hover:not(.ce-popover-item--no-hover) {
+  background-color: theme('colors.tints.forest-green.tint-6');
+}

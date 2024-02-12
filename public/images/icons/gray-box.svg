@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="112" height="112" viewBox="0 0 112 112">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_16906" data-name="Rectangle 16906" width="112" height="112" transform="translate(730 437)" fill="#c9ccc8"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_67" data-name="Mask Group 67" transform="translate(-730 -437)" clip-path="url(#clip-path)">
+    <g id="stock-out-svgrepo-com" transform="translate(738.983 458.758)">
+      <path id="Path_24650" data-name="Path 24650" d="M50.62,15.122a2.372,2.372,0,0,1,1.5,0L87.185,26.808a2.369,2.369,0,0,1,1.216.822l9.5,12.191a2.373,2.373,0,0,1-.484,3.383L60.877,55.374l-7.635-9.8a2.373,2.373,0,0,0-3.746,0L41.9,55.358,5.259,43.135a2.373,2.373,0,0,1-.393-3.313l9.327-11.972a2.371,2.371,0,0,1,1.273-1.012Zm28.4,13.966L51.38,38.3,23.732,29.085,51.37,19.874Z" transform="translate(-4.366 -15)" fill="#c9ccc8" fill-rule="evenodd"/>
+      <path id="Path_24651" data-name="Path 24651" d="M32.218,39.553l28.109-9.362V45.784a7.118,7.118,0,0,1-4.867,6.752L25.176,62.631V33.086L29.6,38.76A2.373,2.373,0,0,0,32.218,39.553Z" transform="translate(24.201 5.853)" fill="#c9ccc8"/>
+      <path id="Path_24652" data-name="Path 24652" d="M43.513,33.129V62.655L13.23,52.561a7.118,7.118,0,0,1-4.867-6.752V30.173l28.149,9.39a2.372,2.372,0,0,0,2.625-.8Z" transform="translate(1.119 5.828)" fill="#c9ccc8"/>
+    </g>
+  </g>
+</svg>

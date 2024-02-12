@@ -1,0 +1,7 @@
+<svg id="vuesax_bulk_ticket" data-name="vuesax/bulk/ticket" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g id="ticket">
+    <path id="Vector" d="M5.833,3.887V2a.5.5,0,0,1-.5-.5V0h-1.5C.893,0,0,.893,0,3.833v.333a.5.5,0,0,0,.5.5A1.167,1.167,0,1,1,.5,7a.5.5,0,0,0-.5.5v.333c0,2.94.893,3.833,3.833,3.833h1.5v-1.5a.5.5,0,0,1,.5-.5V7.78a.5.5,0,0,1-.5-.5V4.387A.5.5,0,0,1,5.833,3.887Z" transform="translate(0.833 2.167)" fill="#fff"/>
+    <path id="Vector-2" data-name="Vector" d="M6.833,6.167A1.172,1.172,0,0,0,8,7.333a.5.5,0,0,1,.5.5c0,2.94-.893,3.833-3.833,3.833H.5v-1.5a.5.5,0,0,0-.5-.5V7.78a.5.5,0,0,0,.5-.5V4.387a.5.5,0,0,0-.5-.5V2a.5.5,0,0,0,.5-.5V0H4.667C7.607,0,8.5.893,8.5,3.833V4.5A.5.5,0,0,1,8,5,1.172,1.172,0,0,0,6.833,6.167Z" transform="translate(6.667 2.167)" fill="#fff" opacity="0.4"/>
+    <path id="Vector-3" data-name="Vector" d="M0,0H16V16H0Z" fill="none" opacity="0"/>
+  </g>
+</svg>

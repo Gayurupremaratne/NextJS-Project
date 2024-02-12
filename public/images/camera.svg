@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <g id="vuesax_bulk_camera" data-name="vuesax/bulk/camera" transform="translate(-364 -316)">
+    <g id="camera" transform="translate(364 316)">
+      <path id="Vector" d="M6.777,30H22.5c4.14,0,5.79-2.535,5.985-5.625l.78-12.39A5.63,5.63,0,0,0,23.637,6a2.465,2.465,0,0,1-2.175-1.335L20.382,2.49A4.951,4.951,0,0,0,16.362,0H12.927A4.955,4.955,0,0,0,8.892,2.49L7.812,4.665A2.465,2.465,0,0,1,5.637,6,5.63,5.63,0,0,0,.012,11.985l.78,12.39C.972,27.465,2.637,30,6.777,30Z" transform="translate(3.363 3)" fill="#577434" opacity="0.4"/>
+      <path id="Vector-2" data-name="Vector" d="M5.625,2.25h-4.5A1.133,1.133,0,0,1,0,1.125,1.133,1.133,0,0,1,1.125,0h4.5A1.133,1.133,0,0,1,6.75,1.125,1.133,1.133,0,0,1,5.625,2.25Z" transform="translate(14.625 10.875)" fill="#577434"/>
+      <path id="Vector-3" data-name="Vector" d="M10.14,5.07A5.07,5.07,0,1,1,5.07,0,5.07,5.07,0,0,1,10.14,5.07Z" transform="translate(12.93 17.055)" fill="#577434"/>
+      <path id="Vector-4" data-name="Vector" d="M0,0H36V36H0Z" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>
